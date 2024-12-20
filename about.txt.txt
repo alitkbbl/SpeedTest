@@ -1,0 +1,11 @@
+This is a mini project for measuring typing speed.
+ Although it's a small project, it's an important step for me in starting out in the field of web development.
+ A text is placed in a box, and the time is calculated until you finish typing it completely.
+ Thank you for your attention. 🌸
+
+
+
+یک مینی پروژه برای تشخیص سرعت تایپ هست.
+درسته پروژه کوچیکیه ولی قدم مهمی برای من تو شروع کردن تو حوزه ی وب بود.
+یک متن توی باکس قرار داده شده و تا زمانی ک کامل اونو ننویسین زمان محاسبه میشه.
+مرسی از توجهتون.(ایموجی گل)
